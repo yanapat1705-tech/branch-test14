@@ -7,3 +7,6 @@
  - 
 ## 
 <img width="600" height="500" alt="{D4D8A5FF-E187-44C9-AB14-858A0805FCC0}" src="https://github.com/user-attachments/assets/82e7652a-5817-4561-bdb4-854937565bea" />
+## ทักษะความสามารถ 🏆
+ - โปรแกรมคอมพิวเตอรืที่ใช้งานเป็น : Figma, Word, Excel 📈
+ - ภาษาโปรแกรมคอมพิวเตอร์ที่ใช้งานเป็น : HTML, CSS, PHP, Python 💻
